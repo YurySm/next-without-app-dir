@@ -1,0 +1,36 @@
+{
+  "cars": [
+    {
+      "id": 1,
+      "name" : "Audi",
+      "price": 32000,
+      "image": "http://localhost:4200/carimg/audi.jpg"
+    },
+    {
+      "id": 2,
+      "name" : "Nissan",
+      "price": 12000,
+      "image": "http://localhost:4200/carimg/audi.jpg"
+    },
+    {
+      "id": 3,
+      "name" : "BMW",
+      "price": 22000,
+      "image": "http://localhost:4200/carimg/bmw.jpg"
+    },
+    {
+      "id": 4,
+      "name" : "Toyota",
+      "price": 15000,
+      "image": "http://localhost:4200/carimg/audi.jpg"
+    },
+    {
+      "id": 5,
+      "name" : "Mercedes",
+      "price": 30000,
+      "image": "http://localhost:4200/carimg/audi.jpg"
+    }
+  ]
+}
+
+

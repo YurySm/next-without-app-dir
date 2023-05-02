@@ -1,4 +1,4 @@
-Simple next.js app without app directory
+Simple next.js 13 app without app directory
 
 ## Getting Started
 
